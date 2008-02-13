@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require File.join(File.dirname(__FILE__), '../vendor/plugins/can_has_chat/lib/can_has_chat/remote/boot_server')
